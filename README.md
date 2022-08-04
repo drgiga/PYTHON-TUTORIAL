@@ -2,12 +2,18 @@
 
 # ------------------------------------------------
 
-## SESSION 01
+## SESSION 02
 
 # ------------------------------------------------
 
-# Printing "Hello world" in Python programming language
+# Commenting & Data Types (Numbers) in Python programming language
 
-# 1- print('') # with Single Quotation Mark ('')
+# The type() function is used to show the type of numeric variables.
 
-# 2- print("") # with Double Quotation Mark ("")
+# 1 - Commenting in Python with symbol
+
+# example: # this code is commented
+
+# 2 - Data Types for Numbers {int,float,complex}
+
+# 3 - Show Type of (Data Types) with type() function
