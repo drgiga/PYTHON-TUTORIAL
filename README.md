@@ -2,6 +2,23 @@
 
 # ------------------------------------------------
 
+## SESSION 04
+
+# ------------------------------------------------
+
+# Completing Data Types in Python programming language
+
+    -ext Type:	str
+    -Numeric Types:	int, float, complex
+    -Sequence Types:	list, tuple, range
+    -Mapping Type:	dict
+    -Set Types:	set, frozenset
+    -Boolean Type:	bool
+    -Binary Types:	bytes, bytearray, memoryview
+    -None Type:	NoneType
+
+# ------------------------------------------------
+
 ## SESSION 03
 
 # ------------------------------------------------
