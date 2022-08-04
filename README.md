@@ -8,4 +8,6 @@
 
 # Printing "Hello world" in Python programming language
 
-# 1- print('')
+# 1- print('') # with Single Quotation Mark ('')
+
+# 2- print("") # with Double Quotation Mark ("")
