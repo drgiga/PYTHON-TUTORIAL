@@ -10,6 +10,18 @@
 
 # {integer , float , string} in this tutorial
 
+# Naming Variables in Python
+
+# -Legal Naming variables in python:
+
+# -Illegal Naming variables in python:
+
+# Assign Multiple Values
+
+# Assign One Value to Multiple Variables
+
+# Unpack a Collection
+
 # ------------------------------------------------
 
 ## SESSION 02
