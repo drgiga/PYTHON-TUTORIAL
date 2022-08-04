@@ -41,3 +41,33 @@ x4, y4, z4 = fruits
 print(x4)
 print(y4)
 print(z4)
+#------------------------------------------------
+# Output Variables
+xstring = "Python is awesome"
+print(xstring)
+print(xstring,type(xstring))
+print('------------------------------')
+xstr = "Python"
+ystr = "is"
+zstr = "awesome"
+print(xstr, ystr, zstr)
+print('------------------------------')
+xstr2 = "Python "
+ystr2 = "is "
+zstr3 = "awesome"
+print(xstr2 + ystr2 + zstr3)
+print('------------------------------')
+xvar = 5
+yvar = 10
+print(xvar+yvar)
+print(xvar , type(xvar) ,  yvar , type(yvar))
+print('------------------------------')
+xvar2 = 5
+yvar2 = "John"
+#print(xvar2+yvar2) # error TypeError: unsupported operand type(s) for +: 'int' and 'str'
+print(xvar2,type(xstring) , yvar2,type(yvar2))
+print('------------------------------')
+xvar3 = 5
+yvar3 = "John"
+print(xvar3,yvar3)
+print(xvar3,type(xvar3), yvar3,type(yvar3))

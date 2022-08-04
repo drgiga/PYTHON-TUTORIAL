@@ -22,6 +22,8 @@
 
 # Unpack a Collection
 
+# Output Variables
+
 # ------------------------------------------------
 
 ## SESSION 02
