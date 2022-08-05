@@ -2,6 +2,22 @@
 
 # ------------------------------------------------
 
+## SESSION 07
+
+# ------------------------------------------------
+
+# Operators
+
+    # Arithmetic operators
+    # Assignment operators
+    # Comparison operators
+    # Logical operators
+    # Identity operators
+    # Membership operators
+    # Bitwise operators
+
+# ------------------------------------------------
+
 ## SESSION 06
 
 # ------------------------------------------------
