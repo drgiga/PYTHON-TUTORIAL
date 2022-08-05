@@ -86,22 +86,13 @@ print("------------------------------------")
 print(listOfAllTypes)
 print("------------------------------------")
 print(listOfAllTypes2)
-
-
-"""
-[
-                    {"name":"davoud" , "family":"keramati","age":35,"complex":-1+5j,"isLive":True,"None":None,"float":654.8520},
-                    {"1":"My Name","2":"Is","3":"Davoud"},
-                    {"1":'My Name',"2":'Is',"3":'Davoud'},
-                    {"1":1,"2":-200,"3":-454,"4":59854,"index":-6},
-                    {1j+8,-2j+74,7+3j,3+6j},
-                    {True,True,False,True,False,False},
-                    {1.0,-20058.02154,-897.54520,8751924.699999},
-                    {None,None,None,None,None,None,None},
-                    {1.0,"Hello",145,-1j,3j+8,'world',False,True,None},
-                    {"one","two","three"},
-                    frozenset{"one","two","three"},
-                    None
-                ]
-"""
-                
+print("------------------------------------")
+print(listOfAllTypes2[1])
+print("------------------------------------")
+print(listOfAllTypes2[-1])
+print("------------------------------------")
+print(listOfAllTypes2[2:5])
+print("------------------------------------")
+print(listOfAllTypes2[:4])
+print("------------------------------------")
+print(listOfAllTypes2[2:])
