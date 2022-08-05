@@ -2,12 +2,29 @@
 
 # ------------------------------------------------
 
+## SESSION 06
+
+# ------------------------------------------------
+
+# Boolean
+
+# ------------------------------------------------
+
+## SESSION 05
+
+# ------------------------------------------------
+
+# Complete Full Strings Structure and Methods
+
+# ------------------------------------------------
+
 ## SESSION 04
 
 # ------------------------------------------------
 
 # Completing Data Types in Python programming language
 
+    # Introduction Data Types {str,int,float,complex,list,tuple,range,dict,set,frozenset,bool,bytes,bytearray,memoryview,NoneType}
     -ext Type:	str
     -Numeric Types:	int, float, complex
     -Sequence Types:	list, tuple, range
@@ -16,6 +33,12 @@
     -Boolean Type:	bool
     -Binary Types:	bytes, bytearray, memoryview
     -None Type:	NoneType
+
+    # Numbers
+    # Random Numbers
+    # String
+    # Range
+    # Casting
 
 # ------------------------------------------------
 
