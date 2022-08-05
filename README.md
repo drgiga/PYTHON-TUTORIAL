@@ -2,6 +2,24 @@
 
 # ------------------------------------------------
 
+## SESSION 12
+
+# ------------------------------------------------
+
+# If Statements
+
+    # If Statement
+    # Elif
+    # Else
+    # Short Hand If
+    # Short Hand If ... Else
+    # If Statement with And
+    # If Statement with Or
+    # Nested If
+    # pass Statement
+
+# ------------------------------------------------
+
 ## SESSION 11
 
 # ------------------------------------------------
