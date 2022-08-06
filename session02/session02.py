@@ -19,3 +19,4 @@ print(4 * 7)
 print(49 / 7)  # division always returns float
 
 print((1 + 3) * 4 / 2)
+print('----------------')
