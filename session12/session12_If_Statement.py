@@ -52,3 +52,31 @@ b = 200
 
 if b > a:
   pass
+print("------------------------------------")
+person1 = {"name":"Davoud",
+          "family":"Keramati",
+          "age":"35",
+          "married":True,
+          "isStuding":True,
+          "hasJob":False,
+          "twitter":None
+          }
+person2 = {"name":"Ali",
+          "family":"Faraji",
+          "age":"41",
+          "married":True,
+          "isStuding":False,
+          "hasJob":False,
+          "twitter":True
+          }
+if person1["name"] == person2["name"]:
+  print("Two Names Are Equal.")
+else:
+  print("Two Names Are Not Equal.")
+print("------------------------------------")
+if person1["age"] == person2["age"]:
+  print("Two Ages Are Equal.")
+elif person1["age"] > person2["age"]:
+  print("Age Person1 > Age Person2")
+else:
+  print("Age Person1 < Age Person2")
