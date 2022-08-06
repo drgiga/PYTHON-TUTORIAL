@@ -42,3 +42,4 @@ print("free" not in txt) # Output: False
 #sample 4
 if "expensive" not in txt:
   print("No, 'expensive' is NOT present.")
+print("--------------------------------")
