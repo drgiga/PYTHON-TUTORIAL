@@ -190,3 +190,4 @@ print("a ^ b =", a ^ b)
 print("a << b =", a << b)
 # Signed right shift
 print("a >> b =", a >> b)
+print("--------------------------------")
