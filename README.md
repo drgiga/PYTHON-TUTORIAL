@@ -2,6 +2,22 @@
 
 # ------------------------------------------------
 
+## SESSION 14
+
+# ------------------------------------------------
+
+# For Loops
+
+    #Looping Through a String
+    #The break Statement
+    #The continue Statement
+    #The range() Function
+    #Else in For Loop
+    #Nested Loops
+    #The pass Statement
+
+# ------------------------------------------------
+
 ## SESSION 13
 
 # ------------------------------------------------
