@@ -2,6 +2,28 @@
 
 # ------------------------------------------------
 
+## SESSION 15
+
+# ------------------------------------------------
+
+# Function
+
+    #Creating a Function
+    #Calling a Function
+    #Arguments
+    #Parameters or Arguments?
+    #Number of Arguments
+    #Arbitrary Arguments, *args
+    #Keyword Arguments
+    #Arbitrary Keyword Arguments, **kwargs
+    #Default Parameter Value
+    #Passing a List as an Argument
+    #Return Values
+    #The pass Statement
+    #Recursion
+
+# ------------------------------------------------
+
 ## SESSION 14
 
 # ------------------------------------------------
