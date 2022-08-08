@@ -17,13 +17,33 @@ myList = [
                 {"name":"davoud" , "family":"keramati"},
                 {"first":{1,2,3},"second":{"a","b","c"},"third":{"name":"davoud","family":"keramati"}}
             ]
-
+print("Access By Index of List ------------------------------------")
 # List items are indexed and you can access them by referring to the index number
 # Note: The first item has index 0
 print(myList[0])
 print(myList[1])
 print(myList[2])
 print(myList[3])
+print("Access By Negative Indexing ------------------------------------")
+print(myList[0])
+print(myList[-1])
+print(myList[-2])
+print(myList[-3])
+print("Access By Range of Indexes ------------------------------------")
+print(myList[0:2])
+print(myList[-1:5])
+print(myList[-2:7])
+print(myList[1:10])
+print(myList[1:])
+print(myList[:9])
+print(myList[-2:])
+print(myList[:-9])
+
+print("Check if Item Exists ------------------------------------")
+# Check if Item Exists
+thislist = ["apple", "banana", "cherry"]
+if "apple" in thislist:
+  print("Yes, 'apple' is in the fruits list")
 
 print("Iterate List with a for Loop ------------------------------------")
 # Iterate List with a for Loop
