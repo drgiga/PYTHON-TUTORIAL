@@ -111,6 +111,14 @@
     # while loop
     # List comprehension
     # enumerate() function
+    Comprehension List
+    # Copy Lists
+    # Join Lists
+    # List Methods
+    # Loop List
+    # Manipulate and Change List
+    # Remove List Items
+    # Sort Lists
 
 # ------------------------------------------------
 
