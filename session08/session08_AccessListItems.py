@@ -67,5 +67,7 @@ print("List Comprehension to Iterate List ------------------------------------")
 """
 print([item for item in myList])
 
+print("------------------------------------")
+
 
 
