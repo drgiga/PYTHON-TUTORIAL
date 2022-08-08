@@ -67,7 +67,7 @@ while i < len(myList):
     print("index:",i , "value:",myList[i])
     i += 1
 
-print("Iterate List with a While Loop ------------------------------------")
+print("Iterate List with enumerate() function ------------------------------------")
 """
 # Use enumerate() to Iterate Through a Python List
 # With Python’s enumerate() method you can iterate through a list or tuple 
