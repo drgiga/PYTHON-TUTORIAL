@@ -100,6 +100,14 @@
 
 # List
 
+# Methods to iterate through a List or Tuple :
+
+    # for loop
+    # range() function
+    # while loop
+    # List comprehension
+    # enumerate() function
+
 # ------------------------------------------------
 
 ## SESSION 07
