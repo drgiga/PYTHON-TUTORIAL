@@ -35,3 +35,4 @@ print(summation.__name__)
 print(division.__name__)
 
 print(myFunc.__name__)
+print("------------------------------------")
