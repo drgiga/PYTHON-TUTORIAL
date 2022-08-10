@@ -16,7 +16,7 @@ def printSumOfAllArguments(*args):
 result = printSumOfAllArguments(1,2,3,4,5,6,7,8,9,0)
 print(type(result)) # <class 'int'>
 print(result)
-print("-----------------------------")
+print("------------------------------")
 result = printSumOfAllArguments(1.11,22.54,39.654,44128.21,98.55,100.66,45.7,987520.008,9.0,0.0)
 print(type(result)) # <class 'int'>
 print(result)

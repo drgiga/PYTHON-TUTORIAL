@@ -5,7 +5,7 @@ result = printAllArguments("davoud","keramati",25,451000,True,False,None)
 
 print(type(result)) # <class 'tuple'>
 print(result)
-print("-----------------------------")
+print("------------------------------")
 def printSumOfAllArguments(*args):
     print(type(args)) # <class 'tuple'>
     totalSum = 0
