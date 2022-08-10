@@ -34,4 +34,4 @@ def compareFunction(first_input = None,last_input = None):
         return print("first and last are equal.")
 
 compareFunction(10,10)
-print("-----------------------------")
+
