@@ -38,17 +38,18 @@ print("Results:---------------------")
 print("Found Items:",found)       
 print("Not Found Items:",notfound)
 print("---------------------------------")
-
-data = [
+myList = [
     {'Name': 'Bobby', 'Id': 1, "Age": 20},
     {'Name': 'ojaswi', 'Id': 2, "Age": 22},
     {'Name': 'rohith', 'Id': 3, "Age": 20},
 ]
-for i in data:
+for i in myList:
     for key , value in i.items():
-        # display
-        # print(i)
         print(key,value)
-        for i in key:
-            print(key,value)
+
+print("---------------------------------")
+mySet = {["a","b","c","d","e"]}
+for item in mySet:
+    for i in mySet[item]:
+        print(i)
 
